@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "elevate", "project\elevate.vcxproj", "{F77A3E96-EF33-47FC-8EEE-673F7EDC6D2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F77A3E96-EF33-47FC-8EEE-673F7EDC6D2D}.Debug|x86.ActiveCfg = Debug|Win32
+		{F77A3E96-EF33-47FC-8EEE-673F7EDC6D2D}.Debug|x86.Build.0 = Debug|Win32
+		{F77A3E96-EF33-47FC-8EEE-673F7EDC6D2D}.Release|x86.ActiveCfg = Release|Win32
+		{F77A3E96-EF33-47FC-8EEE-673F7EDC6D2D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {401F22B8-8169-4BCC-B396-871FF89C1AC2}
+	EndGlobalSection
+EndGlobal

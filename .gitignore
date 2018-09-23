@@ -1,0 +1,11 @@
+*.suo
+*.sdf
+*.opensdf
+*.db
+*.opendb
+
+.vs/
+bin/
+log/
+tmp/
+*.user
